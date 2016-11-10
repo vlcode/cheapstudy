@@ -1,0 +1,4 @@
+User-agent: *
+
+Sitemap: http://cheap-study.com/sitemap.xml
+Host: cheap-study.com
